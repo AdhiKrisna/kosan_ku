@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "191609577202",
+    "firebase_url": "https://kosanku-4fad1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kosanku-4fad1",
+    "storage_bucket": "kosanku-4fad1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191609577202:android:5b3ab26e4ed8052d747a6b",
+        "android_client_info": {
+          "package_name": "com.example.kosan_ku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU6tMbknji3kwwUMUCJUtgNd1FLHdEj-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
