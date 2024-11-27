@@ -1,10 +1,10 @@
 # kosan_ku
 
-A new Flutter project.
+My GPS college course project 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application. Implements location to collect user current location and display all boarding house nearby. This application aims to connect boarding house owners and seekers. It is hoped that both boarding house owners and boarding house seekers will be helped by this application. Enjoy!!
 
 A few resources to get you started if this is your first Flutter project:
 
