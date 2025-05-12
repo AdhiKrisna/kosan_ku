@@ -17,4 +17,8 @@ This project was built to fulfill a university course on GPS-based mobile develo
 - 🗂️ **CRUD Functionalities**: Owners can easily manage property data.
 - 📱 **Built with Flutter**: Cross-platform mobile development for seamless Android support.
 
+## 📸 Screenshots  
+![Kosanku Pages](lib/ss_kosanku.png)
 
+
+---
